@@ -10,6 +10,13 @@ Panel data econometrics project measuring how the oil price shock from the 2026 
 - **Models:** Pooled OLS, Fixed Effects, Random Effects
 - **Dependent variable:** Log(CPI)
 
+## Project Information
+
+- **Project Type:** Collaborative Academic Project – Tunis Business School
+- **Field:** Econometrics and Macroeconomic Analysis
+- **Team Members:** Molka Ouelhezi, Ons Guizani, Nour
+
+This project was developed collaboratively as part of an academic study of the relationship between oil price shocks and domestic inflation during the 2026 Gulf Crisis.
 ## Model
 
 ```
